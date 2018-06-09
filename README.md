@@ -8,7 +8,7 @@ In general, it is fair to say that if the objective is to work out **robust desi
 
 Here is a formal definition of cryptoeconomics.
 
-> A formal discipline that studies protocols that govern the production, distribution and consumption of goods and services in a decentralised digital economy. Cryptoeconomics is a practical science that focuses on the design and characterisation of these protocols. **<a href="https://twitter.com/VladZamfir" alt="Vlad Zamfir profile">Vlad Zamfir</a> [Ethereum Foundation]
+> A formal discipline that studies protocols that govern the production, distribution and consumption of goods and services in a decentralised digital economy. Cryptoeconomics is a practical science that focuses on the design and characterisation of these protocols. <a href="https://twitter.com/VladZamfir" alt="Vlad Zamfir profile">Vlad Zamfir</a> **[Ethereum Foundation]**
 
 The key part is about building an actual **decentralised digital economy**. You need a million of things to achieve that, but only a few fundamental components will be enough to start with.
 
