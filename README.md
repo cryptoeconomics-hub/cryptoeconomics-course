@@ -31,3 +31,7 @@ In a distributed network where there's no central authority, there's no one to m
 If this is the game then there are several strategies both players can play: Alice and Bob can respectively tell the truth or lie regarding sending and receiving the message. Therefore to inform the network about the success or failure of Alice sending a message to Bob, there must be an incentive toward telling the truth. This is where cryptoeconomics kicks in.
 
 # What are the goals of cryptoeconomics?
+
+# References
+
+<a href="https://youtu.be/cM5KYcOm66Y">Vlad Zamfir's Lecture</a>: Casper the Friendly Sharded Blockchain & What is Cryptoeconomics
